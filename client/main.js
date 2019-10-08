@@ -26,4 +26,7 @@ app.renderer.resize(window.innerWidth, window.innerHeight);
 window.onload = function() {
 	
 	document.body.appendChild(app.view);
+
+	let greetings = new PIXI.Text("BIENVENIDO", {fontFamily: 'Verdana', fontSize: 34, fill: 0xffffff});
+	app.stage.addChild(greetings);
 }
