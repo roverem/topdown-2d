@@ -1,0 +1,25 @@
+{
+  "name": "2d-game-pixijs",
+  "version": "1.0.0",
+  "description": "Top Down 2D Game",
+  "main": "index.js",
+  "dependencies": {
+    "esm": "^3.2.25",
+    "express": "^4.17.1",
+    "socket.io": "^2.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/roverem/2d-game-pixijs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/roverem/2d-game-pixijs/issues"
+  },
+  "homepage": "https://github.com/roverem/2d-game-pixijs#readme"
+}
